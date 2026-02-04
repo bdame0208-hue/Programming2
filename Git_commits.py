@@ -11,12 +11,12 @@ if ~(score == 75):
     print("score is not average")
 print(bin(25))
 x=67
-if x == 4 or x ==8:
-    print(f"{x}is my favorite")
+if x == 6 or x ==10:
+    print(f"{x}is my answer")
 elif x>20 and x<100:
     print(f"{x}is large")
 else:
-    print("meh")
+    print("cool")
 bool_1 = True
 val_1 = 36
 val_2 = 28
